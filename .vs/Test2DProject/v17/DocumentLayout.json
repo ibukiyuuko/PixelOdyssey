@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unity\\admin\\Test2DProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8F8663-80AC-F4C9-5FA1-ADEF3031675E}|Assembly-CSharp.csproj|f:\\unity\\admin\\test2dproject\\assets\\scripts\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8F8663-80AC-F4C9-5FA1-ADEF3031675E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8F8663-80AC-F4C9-5FA1-ADEF3031675E}|Assembly-CSharp.csproj|F:\\Unity\\admin\\Test2DProject\\assets\\scripts\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8F8663-80AC-F4C9-5FA1-ADEF3031675E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8F8663-80AC-F4C9-5FA1-ADEF3031675E}|Assembly-CSharp.csproj|F:\\Unity\\admin\\Test2DProject\\assets\\scripts\\flyingeye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8F8663-80AC-F4C9-5FA1-ADEF3031675E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flyingeye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8F8663-80AC-F4C9-5FA1-ADEF3031675E}|Assembly-CSharp.csproj|F:\\Unity\\admin\\Test2DProject\\assets\\scripts\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8F8663-80AC-F4C9-5FA1-ADEF3031675E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "F:\\Unity\\admin\\Test2DProject\\Assets\\Scripts\\Knight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Knight.cs",
+              "ToolTip": "F:\\Unity\\admin\\Test2DProject\\Assets\\Scripts\\Knight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Knight.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T06:22:42.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlyingEye.cs",
+              "DocumentMoniker": "F:\\Unity\\admin\\Test2DProject\\Assets\\Scripts\\FlyingEye.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlyingEye.cs",
+              "ToolTip": "F:\\Unity\\admin\\Test2DProject\\Assets\\Scripts\\FlyingEye.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlyingEye.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAmwHgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:35:32.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Attack.cs",
+              "DocumentMoniker": "F:\\Unity\\admin\\Test2DProject\\Assets\\Scripts\\Attack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Attack.cs",
+              "ToolTip": "F:\\Unity\\admin\\Test2DProject\\Assets\\Scripts\\Attack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Attack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T16:17:34.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Damageable.cs",
+              "DocumentMoniker": "F:\\Unity\\admin\\Test2DProject\\Assets\\Scripts\\Damageable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Damageable.cs",
+              "ToolTip": "F:\\Unity\\admin\\Test2DProject\\Assets\\Scripts\\Damageable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Damageable.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAwwF0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T06:55:59.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
