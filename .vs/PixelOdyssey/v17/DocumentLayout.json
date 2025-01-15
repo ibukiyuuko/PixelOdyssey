@@ -3,19 +3,23 @@
   "WorkspaceRootPath": "F:\\Unity\\admin\\PixelOdyssey\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|f:\\unity\\admin\\pixelodyssey\\assets\\scripts\\projectilelauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectilelauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|f:\\unity\\admin\\pixelodyssey\\assets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|f:\\unity\\admin\\pixelodyssey\\assets\\scripts\\ui\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|F:\\Unity\\admin\\PixelOdyssey\\assets\\scripts\\ui\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|f:\\unity\\admin\\pixelodyssey\\assets\\scripts\\flyingeye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|F:\\Unity\\admin\\PixelOdyssey\\assets\\scripts\\flyingeye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flyingeye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|f:\\unity\\admin\\pixelodyssey\\assets\\scripts\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|F:\\Unity\\admin\\PixelOdyssey\\assets\\scripts\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "ProjectileLauncher.cs",
+              "DocumentMoniker": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\ProjectileLauncher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectileLauncher.cs",
+              "ToolTip": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\ProjectileLauncher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectileLauncher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:28:14.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PauseMenu.cs",
               "DocumentMoniker": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\UI\\PauseMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PauseMenu.cs",
@@ -38,12 +55,11 @@
               "RelativeToolTip": "Assets\\Scripts\\UI\\PauseMenu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T16:06:38.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T16:06:38.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\UI\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainMenu.cs",
@@ -56,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FlyingEye.cs",
               "DocumentMoniker": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\FlyingEye.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FlyingEye.cs",
@@ -64,12 +80,11 @@
               "RelativeToolTip": "Assets\\Scripts\\FlyingEye.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T16:03:28.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T16:03:28.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Knight.cs",
               "DocumentMoniker": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\Knight.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Knight.cs",
@@ -77,8 +92,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Knight.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T16:01:25.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T16:01:25.476Z"
             }
           ]
         }

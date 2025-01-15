@@ -460,10 +460,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   soundToPlay: {fileID: 8300000, guid: aec6121779954d944b0ced9d40448b63, type: 3}
   volume: 1
-  playOnEnter: 1
+  playOnEnter: 0
   playOnExit: 0
-  PlayAfterDelay: 0
-  playDelay: 0.25
+  PlayAfterDelay: 1
+  playDelay: 0.45
 --- !u!1102 &7847118378202970654
 AnimatorState:
   serializedVersion: 6
