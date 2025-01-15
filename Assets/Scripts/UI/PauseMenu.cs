@@ -64,7 +64,7 @@ public class PauseMenu : MonoBehaviour
 #if (UNITY_EDITOR)
         UnityEditor.EditorApplication.isPlaying = false;
 #elif (UNITY_STANDALONE)
-                        Applicatioin.Quit();
+                        Application.Quit();
 #elif (UNITY_WEBGL)
                         SceneManager.LoadScene("QuitScene");
 #endif

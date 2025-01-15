@@ -19,6 +19,7 @@ public class PlayerController : MonoBehaviour
     Damageable damageable;
     public GameObject loseMenuUI;
     public GameObject healthBar;
+    public GameObject winMenuUI;
 
     public float CurrentMoveSpeed { get {
             if (CanMove)
@@ -29,6 +30,8 @@ public class PlayerController : MonoBehaviour
                     {
                         if (IsRunning)
                         {
+
+
                             return runSpeed;
                         }
                         else
@@ -222,6 +225,17 @@ public class PlayerController : MonoBehaviour
         //SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         loseMenuUI.SetActive(true);
         Time.timeScale = 0f;
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        Debug.Log("deadline");
+        if (collision.tag == "DeadLine") damageable.Hit(100, new Vector2(0,0));
+        if(collision.tag == "Win")
+        {
+            winMenuUI.SetActive(true);
+            Time.timeScale = 0f;
+        }
     }
 
 }

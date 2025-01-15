@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+//using UnityEditor.Experimental.GraphView;
 
 public class MainMenu : MonoBehaviour
 {
@@ -30,7 +31,7 @@ public class MainMenu : MonoBehaviour
 #if (UNITY_EDITOR)
         UnityEditor.EditorApplication.isPlaying = false;
 #elif (UNITY_STANDALONE)
-                        Applicatioin.Quit();
+                        Application.Quit();
 #elif (UNITY_WEBGL)
                         SceneManager.LoadScene("QuitScene");
 #endif

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "F:\\Unity\\admin\\PixelOdyssey\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|f:\\unity\\admin\\pixelodyssey\\assets\\scripts\\ui\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|F:\\Unity\\admin\\PixelOdyssey\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|f:\\unity\\admin\\pixelodyssey\\assets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|F:\\Unity\\admin\\PixelOdyssey\\assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|f:\\unity\\admin\\pixelodyssey\\assets\\scripts\\ui\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|f:\\unity\\admin\\pixelodyssey\\assets\\scripts\\flyingeye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flyingeye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|f:\\unity\\admin\\pixelodyssey\\assets\\scripts\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B847BE44-0532-0F66-477E-725167B65CE4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,56 +30,55 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainMenu.cs",
-              "DocumentMoniker": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\UI\\MainMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainMenu.cs",
-              "ToolTip": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\UI\\MainMenu.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\MainMenu.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAswBMAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:07:56.112Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PauseMenu.cs",
               "DocumentMoniker": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\UI\\PauseMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PauseMenu.cs",
               "ToolTip": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\UI\\PauseMenu.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\PauseMenu.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAIBFwB8AAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T10:10:16.133Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-01-15T16:06:38.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AQIAANMAAAAAAAAAAAAAANsAAAAYAAAA",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\UI\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainMenu.cs",
+              "ToolTip": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\UI\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MainMenu.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T09:24:08.3Z",
+              "WhenOpened": "2025-01-15T16:05:49.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlyingEye.cs",
+              "DocumentMoniker": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\FlyingEye.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlyingEye.cs",
+              "ToolTip": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\FlyingEye.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlyingEye.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:03:28.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HealthBar.cs",
-              "DocumentMoniker": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\HealthBar.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBar.cs",
-              "ToolTip": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\HealthBar.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HealthBar.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAA8wCEAAAAFAAAA",
+              "Title": "Knight.cs",
+              "DocumentMoniker": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\Knight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Knight.cs",
+              "ToolTip": "F:\\Unity\\admin\\PixelOdyssey\\Assets\\Scripts\\Knight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Knight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T08:35:15.299Z"
+              "WhenOpened": "2025-01-15T16:01:25.476Z",
+              "EditorCaption": ""
             }
           ]
         }
